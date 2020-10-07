@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714800057938",
+    "firebase_url": "https://jikjok-4665c.firebaseio.com",
+    "project_id": "jikjok-4665c",
+    "storage_bucket": "jikjok-4665c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714800057938:android:251a238ef1a8bdfd18198b",
+        "android_client_info": {
+          "package_name": "com.jikjok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714800057938-9u6fisju2vqa1u38tl2vvtsbalug987q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA54X4xAIHNurILOzw1oBeAn6hnbN-W_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714800057938-9u6fisju2vqa1u38tl2vvtsbalug987q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
